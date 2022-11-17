@@ -1,0 +1,20 @@
+*** tests/A-24-02-M-ok.out	Tue Nov  1 15:49:54 2022
+--- tests/A-24-02-M-ok.outhyp	Tue Nov 15 17:33:17 2022
+***************
+*** 139,146 ****
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|2|20|0
+! CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|0
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+--- 139,145 ----
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|0
+  CONSULTAS
+  1 - Mostrar todas as comunicações

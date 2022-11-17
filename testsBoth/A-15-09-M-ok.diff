@@ -1,0 +1,19 @@
+*** testsBoth/A-15-09-M-ok.out	Sun Nov  6 22:59:11 2022
+--- testsBoth/A-15-09-M-ok.outhyp	Tue Nov 15 17:19:27 2022
+***************
+*** 131,137 ****
+  0 - Sair
+  Escolha uma opção: 1
+  VOICE|1|969014|969011|10|200|FINISHED
+! VOICE|2|969011|969014|10|100|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 131,137 ----
+  0 - Sair
+  Escolha uma opção: 1
+  VOICE|1|969014|969011|10|200|FINISHED
+! VOICE|2|969011|969014|10|200|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

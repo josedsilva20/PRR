@@ -1,0 +1,28 @@
+*** testsBoth/A-22-07-M-ok.out	Sun Nov  6 22:59:18 2022
+--- testsBoth/A-22-07-M-ok.outhyp	Tue Nov 15 17:19:50 2022
+***************
+*** 279,290 ****
+  0 - Sair
+  Escolha uma opção: 3
+  Identificador do cliente: cli001
+- VOICE|1|969014|969013|1|20|FINISHED
+- VOICE|2|969007|969011|1|20|FINISHED
+- TEXT|3|969007|969011|6|10|FINISHED
+  VOICE|4|969015|969001|1|20|FINISHED
+  VOICE|5|969014|969011|1|20|FINISHED
+! TEXT|6|969007|969001|6|10|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 279,289 ----
+  0 - Sair
+  Escolha uma opção: 3
+  Identificador do cliente: cli001
+  VOICE|4|969015|969001|1|20|FINISHED
++ VOICE|2|969007|969011|1|20|FINISHED
+  VOICE|5|969014|969011|1|20|FINISHED
+! VOICE|1|969014|969013|1|20|FINISHED
+! 
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

@@ -1,0 +1,13 @@
+*** tests/A-25-02-M-ok.out	Tue Nov  1 17:07:46 2022
+--- tests/A-25-02-M-ok.outhyp	Tue Nov 15 17:33:18 2022
+***************
+*** 87,92 ****
+--- 87,94 ----
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: BASIC|969001|cli001|IDLE|0|0
++ BASIC|969006|cli001|IDLE|0|10
++ FANCY|969014|cli002|IDLE|0|10
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

@@ -1,0 +1,22 @@
+*** testsBoth/A-26-03-M-ok.out	Sun Nov  6 22:59:20 2022
+--- testsBoth/A-26-03-M-ok.outhyp	Tue Nov 15 17:20:00 2022
+***************
+*** 192,197 ****
+--- 192,198 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 4
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 230,236 ****
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 7
+- FANCY|969006|cli003|IDLE|10|0
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 231,236 ----

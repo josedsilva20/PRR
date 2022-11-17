@@ -1,0 +1,22 @@
+*** testsBoth/A-24-05-M-ok.out	Sun Nov  6 22:59:19 2022
+--- testsBoth/A-24-05-M-ok.outhyp	Tue Nov 15 17:19:57 2022
+***************
+*** 109,114 ****
+--- 109,115 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 1
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 149,155 ****
+  Escolha uma opção: 4
+  CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|1|0|0
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|0
+- CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|10|0
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 150,155 ----

@@ -1,0 +1,19 @@
+*** testsBoth/A-23-06-M-ok.out	Sun Nov  6 22:59:18 2022
+--- testsBoth/A-23-06-M-ok.outhyp	Tue Nov 15 17:19:53 2022
+***************
+*** 240,246 ****
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 5
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|3|90|10
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 240,246 ----
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 5
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|3|0|100
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

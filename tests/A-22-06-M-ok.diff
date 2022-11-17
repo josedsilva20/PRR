@@ -1,0 +1,12 @@
+*** tests/A-22-06-M-ok.out	Mon Oct 31 11:15:14 2022
+--- tests/A-22-06-M-ok.outhyp	Tue Nov 15 17:33:12 2022
+***************
+*** 165,171 ****
+  0 - Sair
+  Escolha uma opção: Identificador do cliente: VOICE|1|969014|969001|1|20|FINISHED
+  VOICE|2|969007|969011|1|20|FINISHED
+- TEXT|3|969007|969011|6|10|FINISHED
+  VOICE|4|969015|969013|1|20|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+--- 165,170 ----

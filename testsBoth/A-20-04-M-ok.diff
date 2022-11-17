@@ -1,0 +1,29 @@
+*** testsBoth/A-20-04-M-ok.out	Sun Nov  6 22:59:16 2022
+--- testsBoth/A-20-04-M-ok.outhyp	Tue Nov 15 17:19:41 2022
+***************
+*** 43,48 ****
+--- 43,49 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 1
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 56,62 ****
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: 7
+! Valores para o terminal '969001':10 (pagamentos),  0 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 57,63 ----
+  11 - Mostrar comunicação em curso
+  0 - Sair
+  Escolha uma opção: 7
+! Valores para o terminal '969001':0 (pagamentos),  10 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio

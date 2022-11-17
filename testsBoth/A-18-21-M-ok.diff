@@ -1,0 +1,22 @@
+*** testsBoth/A-18-21-M-ok.out	Sun Nov  6 22:59:14 2022
+--- testsBoth/A-18-21-M-ok.outhyp	Tue Nov 15 17:19:37 2022
+***************
+*** 263,268 ****
+--- 263,269 ----
+  Escolha uma opção: 1
+  Identificador do cliente: cli001
+  CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|0
++ B2S|969008
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes
+***************
+*** 274,279 ****
+--- 275,281 ----
+  Escolha uma opção: 1
+  Identificador do cliente: cli002
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
++ B2S|969008
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes

@@ -1,0 +1,21 @@
+*** testsBoth/A-26-04-M-ok.out	Sun Nov  6 22:59:20 2022
+--- testsBoth/A-26-04-M-ok.outhyp	Tue Nov 15 17:20:00 2022
+***************
+*** 225,232 ****
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 1
+! VOICE|1|969002|969001|23|460|FINISHED
+! VIDEO|2|969002|969006|1|30|FINISHED
+  VOICE|3|969002|969005|10|200|FINISHED
+  VOICE|4|969002|969006|1|20|FINISHED
+  VOICE|5|969002|969005|1|20|FINISHED
+--- 225,232 ----
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 1
+! VOICE|3|969002|969001|23|460|FINISHED
+! VIDEO|3|969002|969006|1|30|FINISHED
+  VOICE|3|969002|969005|10|200|FINISHED
+  VOICE|4|969002|969006|1|20|FINISHED
+  VOICE|5|969002|969005|1|20|FINISHED

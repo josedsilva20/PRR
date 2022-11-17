@@ -1,0 +1,19 @@
+*** tests/A-13-09-M-ok.out	Tue Nov  1 19:28:39 2022
+--- tests/A-13-09-M-ok.outhyp	Tue Nov 15 17:32:39 2022
+***************
+*** 55,61 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969011':0 (pagamentos),  20 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 55,61 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969011':0 (pagamentos),  26 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio

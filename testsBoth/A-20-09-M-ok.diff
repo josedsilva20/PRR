@@ -1,0 +1,12 @@
+*** testsBoth/A-20-09-M-ok.out	Sun Nov  6 22:59:16 2022
+--- testsBoth/A-20-09-M-ok.outhyp	Tue Nov 15 17:19:42 2022
+***************
+*** 42,48 ****
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 1
+- O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 42,47 ----

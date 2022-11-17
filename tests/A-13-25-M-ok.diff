@@ -1,0 +1,69 @@
+*** tests/A-13-25-M-ok.out	Thu Nov  3 23:16:16 2022
+--- tests/A-13-25-M-ok.outhyp	Tue Nov 15 17:32:47 2022
+***************
+*** 55,61 ****
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969011':0 (pagamentos),  120 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+--- 55,61 ----
+  9 - Iniciar comunicação
+  11 - Mostrar comunicação em curso
+  0 - Sair
+! Escolha uma opção: Valores para o terminal '969011':0 (pagamentos),  200 (dívidas).
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 90,104 ****
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: VOICE|1|969001|969006|13|260|FINISHED
+! VOICE|2|969001|969014|13|260|FINISHED
+! VIDEO|3|969011|969014|1|20|FINISHED
+! VIDEO|4|969011|969015|1|20|FINISHED
+! VIDEO|5|969011|969014|1|20|FINISHED
+! VIDEO|6|969011|969015|1|20|FINISHED
+! VIDEO|7|969011|969014|2|40|FINISHED
+! TEXT|8|969011|969015|7|0|FINISHED
+! TEXT|9|969011|969014|5|0|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 90,104 ----
+  6 - Mostrar terminais sem actividade
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+! Escolha uma opção: VOICE|3|969001|969006|13|260|FINISHED
+! VOICE|3|969001|969014|13|260|FINISHED
+! VIDEO|3|969011|969014|1|30|FINISHED
+! VIDEO|4|969011|969015|1|30|FINISHED
+! VIDEO|5|969011|969014|1|30|FINISHED
+! VIDEO|6|969011|969015|1|30|FINISHED
+! VIDEO|7|969011|969014|2|60|FINISHED
+! TEXT|8|969011|969015|7|10|FINISHED
+! TEXT|9|969011|969014|5|10|FINISHED
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+***************
+*** 124,130 ****
+  5 - Desactivar notificações
+  6 - Mostrar saldo de cliente
+  0 - Sair
+! Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|GOLD|YES|4|520|120
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+--- 124,130 ----
+  5 - Desactivar notificações
+  6 - Mostrar saldo de cliente
+  0 - Sair
+! Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|720
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0

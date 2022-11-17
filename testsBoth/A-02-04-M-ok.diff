@@ -1,0 +1,83 @@
+*** testsBoth/A-02-04-M-ok.out	Sun Nov  6 22:59:03 2022
+--- testsBoth/A-02-04-M-ok.outhyp	Tue Nov 15 17:19:09 2022
+***************
+*** 348,353 ****
+--- 348,354 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 4
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 362,367 ****
+--- 363,369 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 2
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 424,430 ****
+  6 - Ver saldo global
+  0 - Sair
+  Escolha uma opção: 6
+! Valores globais: 430 (pagamentos),  780 (dívidas).
+  MENU PRINCIPAL
+  1 - Abrir
+  2 - Guardar
+--- 426,432 ----
+  6 - Ver saldo global
+  0 - Sair
+  Escolha uma opção: 6
+! Valores globais: 0 (pagamentos),  1210 (dívidas).
+  MENU PRINCIPAL
+  1 - Abrir
+  2 - Guardar
+***************
+*** 445,451 ****
+  Escolha uma opção: 2
+  CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|2|0|340
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|2|430|440
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes
+--- 447,453 ----
+  Escolha uma opção: 2
+  CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|2|0|340
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|2|0|870
+  GESTÃO DE CLIENTES
+  1 - Visualizar cliente
+  2 - Visualizar todos os clientes
+***************
+*** 485,490 ****
+--- 487,493 ----
+  0 - Sair
+  Escolha uma opção: 6
+  Número da comunicação: 5
++ O identificador da comunicação é inválido.
+  OPERAÇÕES DO TERMINAL
+  1 - Ligar
+  2 - Colocar no silêncio
+***************
+*** 513,519 ****
+  6 - Ver saldo global
+  0 - Sair
+  Escolha uma opção: 6
+! Valores globais: 670 (pagamentos),  540 (dívidas).
+  MENU PRINCIPAL
+  1 - Abrir
+  2 - Guardar
+--- 516,522 ----
+  6 - Ver saldo global
+  0 - Sair
+  Escolha uma opção: 6
+! Valores globais: 0 (pagamentos),  1210 (dívidas).
+  MENU PRINCIPAL
+  1 - Abrir
+  2 - Guardar

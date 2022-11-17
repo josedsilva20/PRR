@@ -1,0 +1,53 @@
+*** testsBoth/A-13-07-M-ok.out	Sun Nov  6 22:59:07 2022
+--- testsBoth/A-13-07-M-ok.outhyp	Tue Nov 15 17:19:21 2022
+***************
+*** 94,100 ****
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|260|0
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+--- 94,100 ----
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|260
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+***************
+*** 189,195 ****
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|260|260
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+--- 189,195 ----
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|520
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+***************
+*** 276,282 ****
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|GOLD|YES|4|520|0
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0
+--- 276,282 ----
+  6 - Mostrar saldo de cliente
+  0 - Sair
+  Escolha uma opção: 2
+! CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|4|0|520
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|2|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|3|0|0
+  CLIENT|cli201|Ludgero Oliveira|103440|NORMAL|YES|0|0|0

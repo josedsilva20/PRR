@@ -1,0 +1,12 @@
+*** testsBoth/A-24-02-M-ok.out	Sun Nov  6 22:59:19 2022
+--- testsBoth/A-24-02-M-ok.outhyp	Tue Nov 15 17:19:56 2022
+***************
+*** 161,167 ****
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 4
+- CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|2|20|0
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|0
+  CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|0
+  CONSULTAS
+--- 161,166 ----

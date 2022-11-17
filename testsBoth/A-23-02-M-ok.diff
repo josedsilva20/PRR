@@ -1,0 +1,19 @@
+*** testsBoth/A-23-02-M-ok.out	Sun Nov  6 22:59:18 2022
+--- testsBoth/A-23-02-M-ok.outhyp	Tue Nov 15 17:19:51 2022
+***************
+*** 142,148 ****
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 5
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|40|20
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 142,148 ----
+  7 - Mostrar terminais com saldo positivo
+  0 - Sair
+  Escolha uma opção: 5
+! CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|0|60
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente

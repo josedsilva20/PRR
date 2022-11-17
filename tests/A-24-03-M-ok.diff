@@ -1,0 +1,12 @@
+*** tests/A-24-03-M-ok.out	Tue Nov  1 16:05:09 2022
+--- tests/A-24-03-M-ok.outhyp	Tue Nov 15 17:33:17 2022
+***************
+*** 193,199 ****
+  0 - Sair
+  Escolha uma opção: CLIENT|cli001|Manuel Pinheiro|103443|NORMAL|YES|1|0|0
+  CLIENT|cli002|Pedro Pinheiro|103447|NORMAL|YES|1|0|0
+- CLIENT|cli003|Pedro Oliveira|103449|NORMAL|YES|1|60|0
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
+--- 193,198 ----

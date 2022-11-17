@@ -1,0 +1,13 @@
+*** testsBoth/A-25-02-M-ok.out	Sun Nov  6 22:59:19 2022
+--- testsBoth/A-25-02-M-ok.outhyp	Tue Nov 15 17:19:58 2022
+***************
+*** 103,108 ****
+--- 103,110 ----
+  0 - Sair
+  Escolha uma opção: 6
+  BASIC|969001|cli001|IDLE|0|0
++ BASIC|969006|cli001|IDLE|0|10
++ FANCY|969014|cli002|IDLE|0|10
+  CONSULTAS
+  1 - Mostrar todas as comunicações
+  2 - Mostrar comunicações feitas por um cliente
